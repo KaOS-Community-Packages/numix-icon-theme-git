@@ -1,5 +1,5 @@
 pkgname=numix-icon-theme-git
-pkgver=0.r1945.5890eebcf-1
+pkgver=0.r1945.5890eebcf
 pkgrel=1
 pkgdesc='Base icon theme from the Numix project'
 arch=('x86_64')
